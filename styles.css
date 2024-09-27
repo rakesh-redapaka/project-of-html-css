@@ -326,7 +326,7 @@ to {
       .a{
       display: grid;
       grid-template-columns: auto;
-      height:130vh;
+      height:200vh;
       font-size:25px;
       letter-spacing: 1px;
       margin-top: 0vh;
@@ -345,6 +345,7 @@ to {
      padding: 0px 0px; 
      font-size: 26px; 
      line-height: 20px;
+     /* height: 50vh; */
      
   }
   .apple{
