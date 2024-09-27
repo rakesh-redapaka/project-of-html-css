@@ -336,7 +336,7 @@ to {
      z-index: -10;
      margin-top: 1vh;
      /* width: 100%; */
-     height: 60vh;
+     height: 80vh;
      animation:first 3s ease-in-out infinite;
   }
   .section1{
@@ -393,7 +393,7 @@ to {
       flex-direction: column;
       /* justify-content: space-around; */
       text-align: center;
-      margin-top: 20vh;
+      margin-top: 50vh;
   }
   .f1{
       width: 150px;
