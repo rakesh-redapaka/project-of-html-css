@@ -326,7 +326,7 @@ to {
       .a{
       display: grid;
       grid-template-columns: auto;
-      height:250vh;
+      height:150vh;
       font-size:25px;
       letter-spacing: 1px;
       margin-top: 0vh;
